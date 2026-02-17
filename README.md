@@ -1,7 +1,7 @@
 
 # readme #
 
- **"人生において私よりも優れた人を見つけられることを祈ります"** 
+ **"コーディングする敗者"** 
 
  ## What languages do i know? 
  <a href="https://github.com/ihatedecember">
