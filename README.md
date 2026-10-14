@@ -16,7 +16,7 @@ visit my **portfolio!** https://5tkv.vercel.app
  <img src = "https://skillicons.dev/icons?i=rust,swift,php,cs">
 
 
-## Currently Playing:
+## Listening History
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=1x1tq3ny5zuxo56bntk0rhr6y&amp;theme=dark&amp;profile=off&amp;footer=wave" />
   <source media="(prefers-color-scheme: light)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=1x1tq3ny5zuxo56bntk0rhr6y&amp;theme=light&amp;profile=off&amp;footer=wave" />
