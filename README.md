@@ -8,7 +8,7 @@ visit my **portfolio!** https://5tkv.vercel.app
 
  ## What languages do i know? 
  <a href="https://github.com/5tkv">
- <img src ="https://skillicons.dev/icons?i=python,js,html,cpp, ts">
+ <img src ="https://skillicons.dev/icons?i=python,js,html,cpp,ts">
  </a>
 
  ## What programming languages do I want to learn?
