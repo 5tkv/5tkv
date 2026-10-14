@@ -1,18 +1,27 @@
 
-# readme #
+# Who is this? #
 
- **"コーディングする敗者"** 
+**"we got some new bands, we got some new bands yeah"** 
+
+visit my **portfolio!** https://5tkv.vercel.app
+ 
 
  ## What languages do i know? 
- <a href="https://github.com/ihatedecember">
- <img src ="https://skillicons.dev/icons?i=python,js,vscode,html,cpp">
+ <a href="https://github.com/5tkv">
+ <img src ="https://skillicons.dev/icons?i=python,js,html,cpp">
  </a>
- 
+
+ ## What programming languages do I want to learn?
+ <a href="https://github.com/5tkv">
+ <img src = "https://skillicons.dev/icons?i=rust,swift,php,cs">
+
 
 ## Currently Playing:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=1x1tq3ny5zuxo56bntk0rhr6y&amp;theme=dark&amp;profile=off&amp;footer=wave" />
+  <source media="(prefers-color-scheme: light)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=1x1tq3ny5zuxo56bntk0rhr6y&amp;theme=light&amp;profile=off&amp;footer=wave" />
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=1x1tq3ny5zuxo56bntk0rhr6y&amp;theme=dark&amp;profile=off&amp;footer=wave" alt="Spotify recently played" width="400" />
+</picture>
 
-
- 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1x1tq3ny5zuxo56bntk0rhr6y&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=1x1tq3ny5zuxo56bntk0rhr6y&redirect=true)
 
 
